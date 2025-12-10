@@ -4,7 +4,8 @@ smart-chat/node_modules
 smart-chat/.vscode
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
-.env
+#remember to add .env to the ignore list
+#the .env must be in the root directory
 
 # Compiled output
 /dist
